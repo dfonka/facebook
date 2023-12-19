@@ -1,2 +1,3 @@
 users can login with email and paasword
 users can signup with name,email and paasword
+user can login with otp
