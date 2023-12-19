@@ -1,0 +1,2 @@
+users can have profile pics
+users can have about features
